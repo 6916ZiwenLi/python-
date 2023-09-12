@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 10 18:11:01 2023
-
-@author: pyf20
-"""
 
 n = 1
 while 1:

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 10 17:55:29 2023
-
-@author: pyf20
-"""
 
 x = input('请输入一个小于1000的整数：')
 x = eval(x)

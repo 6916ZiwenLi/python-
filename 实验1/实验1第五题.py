@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 10 18:07:25 2023
-
-@author: pyf20
-"""
 
 x = input('请输入x的值：')
 x = eval(x)
